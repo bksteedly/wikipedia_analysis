@@ -1,0 +1,685 @@
+Family Name,Algorithm Name,Year,Time Complexity Class,average_monthly_reads,years_since_problem_introduced,years_since_last_improvement,Number of Authors
+Optimal Binary Search Trees,Melhorn's Approximation algorithm,1975,3,0.0,83,27,1
+Optimal Binary Search Trees,Karpinski,1996,2.6,0.0,83,27,3
+Optimal Binary Search Trees,Klawe; Mumey,1993,3,0.0,83,27,2
+Optimal Binary Search Trees,Larmore,1987,4.6,0.0,83,27,1
+Nearest Neighbor Search,Hierarchical Navigable Small World (HNSW),2018,4,8855.80412371134,83,83,2
+Nearest Neighbor Search,Locality-sensitive hashing,2010,3,7193.041237113402,83,83,3
+Nearest Neighbor Search,Projected radial search,2013,3,0.0,83,83,2
+The Subset-Sum Problem,Pisinger,2003,3,32317.474226804123,83,67,1
+The Subset-Sum Problem,Faaland,1973,3,0.0,83,67,1
+The Subset-Sum Problem,Pferschy,1999,3,11461.01030927835,83,67,1
+The Subset-Sum Problem,Klinz,1999,4.5,0.0,83,67,2
+The Subset-Sum Problem,Eppstein,1997,4,0.0,83,67,1
+The Subset-Sum Problem,Serang,2014,4,0.0,83,67,1
+The Subset-Sum Problem,Serang,2015,4,0.0,83,67,1
+The Subset-Sum Problem,Lokshtanov,2010,6,0.0,83,67,2
+Stable Matching Problem,"Valentin Polishchuk, and Jukka Suomela",2008,1,0.0,61,15,4
+Motif Search,"Lawrence, Reilly",1990,3,0.0,35,20,2
+Motif Search,Lawrence Gibbs Sampling,1993,3,39.855670103092784,35,20,6
+Motif Search,MotifSampler,2001,3,39.855670103092784,35,20,7
+Texture Synthesis,tree-structured vector quantization Wei-Levoy,2000,5.01,860.3814432989691,25,22,2
+Texture Synthesis,"Spatial GAN-Based; Urs Bergmann, Nikolay Jetchev, Roland Vollgraf",2017,3,860.3814432989691,25,22,3
+n-Queens Problem,Grigoryan,2018,3,0.0,175,5,1
+Cycle Detection,Sedgewick; Szymanski; and Yao,1982,3,8665.453608247422,56,56,3
+Cycle Detection,Nivasch,2004,3,8665.453608247422,56,56,1
+Sorting,Intro Sort,1997,4,3044.907216494845,83,55,1
+Sorting,Heap Sort,1964,4,23630.907216494845,83,55,1
+Sorting,Counting Sort,1954,3,9069.40206185567,83,55,1
+kth Order Statistic,Hoare's Selection Algorithm (QuickSelect),1961,5,62560.50515463918,83,83,1
+Longest Common Subsequence,Wagner and Fischer,1974,5,1540.9381443298969,49,46,2
+Maximum Flow,Ford & Fulkerson,1955,7,8510.536082474227,72,26,2
+Maximum Flow,Dinitz,1970,7,1797.9896907216496,72,26,1
+Maximum Flow,Edmonds & Karp,1972,7,4002.958762886598,72,26,2
+Maximum Flow,Galil & Naamad,1980,6.02,0.0,72,26,2
+Matrix Product,Strassen's algorithm,1969,4.4035,8194.577319587628,83,9,1
+Matrix Product,Pan's algorithm,1978,4.3975,1242.9484536082475,83,9,1
+Matrix Product,Romani's algorithm,1981,4.258325,1242.9484536082475,83,9,1
+Matrix Product,Coppersmith‚ÄìWinograd algorithm,1981,4.247774,1242.9484536082475,83,9,2
+Matrix Product,Strassen's algorithm,1986,4.23925,8194.577319587628,83,9,1
+Matrix Product,Coppersmith‚ÄìWinograd algorithm,1990,4.18775,1242.9484536082475,83,9,2
+Matrix Product,Vassilevska Williams,2014,4.1864365,6845.876288659794,83,9,1
+Matrix Product,Fran√ßois Le Gall,2014,4.18643195,1242.9484536082475,83,9,1
+Linear System,Aasen's method,1971,4.5,0.0,83,14,1
+Linear System,Levinson‚ÄìDurbin recursion,1947,3,1220.1237113402062,83,14,1
+Linear System,Bareiss Algorithm,1969,3,593.2886597938144,83,14,1
+Linear System,Bjorck-Pereyra,1970,3,7605.845360824742,83,14,2
+Linear Programming,Khachiyan Ellipsoid algorithm,1979,7,1330.5773195876288,83,8,1
+Line segment intersection,Bentley‚ÄìOttmann algorithm,1979,4,1610.8969072164948,83,34,2
+Convex Hull,Jarvis,1973,3,2274.0721649484535,88,35,1
+Minimum Spanning Tree (MST),Kruskal‚Äôs algorithm with demand-sorting,1991,5.01,0.0,97,66,2
+Minimum Spanning Tree (MST),Quick Kruskal algorithm,2006,5.01,0.0,97,66,2
+Minimum Spanning Tree (MST),Karger; Klein & Tarjan,1995,5,22169.01030927835,97,66,3
+LU Decomposition,Okunev; Johnson,1997,6,18572.23711340206,145,48,2
+Informed Search,A* Algorithm,1968,8,62913.67010309279,64,64,3
+Informed Search,Bidirectional A* Algorithm,2007,8,1669.340206185567,64,64,4
+Informed Search,Fringe Saving A* (FSA*),2008,8,62913.67010309279,64,64,3
+Informed Search,Generalized Adaptive A* (GAA*),2008,8,62913.67010309279,64,64,3
+Informed Search,Iterative Deepening A* (IDA*),1985,8,2572.2061855670104,64,64,1
+Informed Search,Jump Point Search (JPS),2011,8,1056.0721649484535,64,64,2
+Informed Search,Lifelong Planning A* (LPA*),2001,8,484.046875,64,64,2
+Informed Search,Simplified Memory-Bounded A* (SMA*),1992,8,790.659793814433,64,64,1
+Informed Search,Theta*,2010,8,444.6185567010309,64,64,4
+Informed Search,Anytime Repairing A* (ARA*),2005,8,330.8875,64,64,3
+Informed Search,Time-Bounded A* (TBA*),2009,8,0.0,64,64,3
+String Search,Knuth-Morris-Pratt (KMP) algorithm,1977,3,11982.659793814431,83,48,3
+String Search,Boyer-Moore (BM) algorithm,1977,5,4814.5161290322585,83,48,2
+String Search,Rabin-Karp (RK) algorithm,1987,5,5736.061855670103,83,48,2
+Sequence Alignment,Needleman‚ÄìWunsch algorithm,1970,5,6119.030927835051,53,43,2
+Sequence Alignment,Smith‚ÄìWaterman algorithm,1981,6,5500.762886597938,53,43,2
+Sequence Alignment,Masek; Patterson,1980,4.99,0.0,53,43,2
+Sequence Alignment,Hirschberg's algorithm,1975,5,1332.1958762886595,53,43,1
+Sequence Alignment,FASTA,1985,5,3718.1546391752577,53,43,2
+Sequence Alignment,Gotoh,1982,5,12357.701030927836,53,43,1
+Sequence Alignment,Altschul and Erickson,1986,5,5500.762886597938,53,43,2
+Sequence Alignment,Myers and Miller,1988,5,5500.762886597938,53,43,2
+Sequence Alignment,David Sankoff,1972,5,6119.030927835051,53,43,1
+Line Clipping,Cohen‚ÄìSutherland,1967,3,3605.0515463917527,56,56,2
+Line Clipping,Liang‚ÄìBarsky,1984,3,1019.2474226804125,56,56,2
+Line Clipping,Cyrus‚ÄìBeck,1978,3,838.7835051546392,56,56,2
+Line Clipping,Nicholl‚ÄìLee‚ÄìNicholl,1987,3,255.0675675675676,56,56,3
+Line Clipping,Fast clipping,1987,3,1719.2371134020618,56,56,3
+NFA to DFA conversion,Rabin‚ÄìScott powerset construction,1959,8,1636.4639175257732,64,64,2
+Multiplication,Karatsuba Algorithm,1962,4.58,8786.886597938144,83,4,2
+Multiplication,Toom-3,1969,4.46,1693.4536082474226,83,4,2
+Line Simplification,Ramer‚ÄìDouglas‚ÄìPeucker algorithm,1972,5,5473.577319587629,54,54,1
+Line Simplification,Visvalingam‚ÄìWhyatt,1993,5,544.974358974359,54,54,2
+Line Simplification,Opheim simplification,1981,3,5473.577319587629,54,54,1
+Line Simplification,Zhao-Saalfeld,1997,3,5473.577319587629,54,54,2
+Nearest Neighbor Search,k-d Tree,1975,4,0.875,83,83,3
+Nearest Neighbor Search,R-tree,1984,4,8517.257731958764,83,83,1
+The Subset-Sum Problem,Horowitz and Sahni,1974,8,11461.01030927835,83,67,2
+The Subset-Sum Problem,Bellman dynamic programming algorithm,1956,3,36779.24742268041,83,67,1
+The Subset-Sum Problem,Psinger,1999,3,11461.01030927835,83,67,1
+The Subset-Sum Problem,Koiliaris and Xu,2019,4,11461.01030927835,83,67,2
+The Subset-Sum Problem,Bringman,2017,4,0.0,83,67,1
+Maximum Subarray Problem,Faster Brute Force (via x[L:U] = x[L:U-1]+x[U]),1977,5,12457.59793814433,46,28,1
+Maximum Subarray Problem,Perumalla and Deo,1995,2,0.0,46,28,2
+Motif Search,Speller,1998,5.5,0.0,35,20,1
+Motif Search,Mitra,2002,3,0.0,35,20,2
+Motif Search,Census,2003,3,0.0,35,20,2
+Motif Search,Risotto,2006,5.5,86.84536082474227,35,20,4
+Motif Search,PMS,2007,5.5,86.84536082474227,35,20,3
+Change-Making Problem,Dynamic Programming,1953,5,4004.0,83,9,1
+Matrix Chain Multiplication,Czumaj,1996,2,4052.020618556701,83,27,1
+Matrix Chain Multiplication,Czumaj,1996,1.99,4052.020618556701,83,27,1
+Matrix Chain Multiplication,Chandra,1975,3,0.0,83,27,2
+Matrix Chain Multiplication,Chin,1978,3,4052.020618556701,83,27,1
+Matrix Product,Bini's algorithm,1979,4.38995,0.0,83,9,4
+Matrix Product,Schonhage's algorithm,1980,4.2609,3278.9484536082473,83,9,1
+Graph Coloring,"Karger, Blum",1997,7,0.0,171,34,2
+Graph Coloring,Br√©laz (DSatur),1979,5,302.27450980392155,171,34,1
+Maximum Cardinality Matching,Micali and Vazirani,1980,5.5,2304.5257731958764,67,12,2
+The Traveling-Salesman Problem,Miller-Tucker-Zemlin (MTZ) formulation,1960,8,47464.0206185567,69,21,3
+The Traveling-Salesman Problem,Dantzig-Fulkerson-Johnson (DFJ) formulation,1954,8,47464.0206185567,69,21,3
+The Traveling-Salesman Problem,Barvinok,2003,5.01,0.0,69,21,6
+Feature Detection,L. Kitchen and A. Rosenfeld,1982,6,4344.938144329897,43,8,2
+The Set-Covering Problem,Chvatal greedy heuristic,1979,5,6902.350515463918,51,17,1
+The Set-Covering Problem,Alon; Moshkovitz & Safra,2006,4,6902.350515463918,51,17,3
+Motif Search,Roth AlignACE,1998,3,0.0,35,20,4
+Texture Synthesis,non-parametric sampling Efros and Leung,1999,6,860.3814432989691,25,22,2
+Texture Synthesis,image analogies Hertzmann,2001,3,860.3814432989691,25,22,5
+Texture Synthesis,R. Paget ; I.D. Longstaff,1998,6,860.3814432989691,25,22,2
+Texture Synthesis,Image quilting Efros-Freeman,2001,6,860.3814432989691,25,22,2
+SLAM Algorithms,EKF SLAM,1998,6,15218.62886597938,25,20,4
+SLAM Algorithms,UKF,2000,6,0.0,25,20,2
+SLAM Algorithms,Compressed Extended KF,2002,6,0.0,25,20,1
+SLAM Algorithms,Rao-Blackwellized Particle Filtering SLAM,2001,5,8201.525773195875,25,20,1
+Graph Coloring,Petford and Welsh,1989,4,0.0,171,34,2
+Graph Coloring,Fomin; Gaspers & Saurabh,2007,8,13713.886597938144,171,34,3
+Closest Pair Problem,Khuller; Matias,1995,3,4292.20618556701,48,43,2
+LU Decomposition,Bunch; Hopcroft,1974,4.188,18572.23711340206,145,48,2
+Sorting,Tree sort,1986,4,2298.422680412371,83,55,2
+Sorting,Cube Sort Parallel Implementation,1992,4,781.1237113402062,83,55,2
+Sorting,Shell Sort (Shell),1959,5,8659.01030927835,83,55,1
+Sorting,Shell Sort (Frank & Lazarus),1960,4.5,8659.01030927835,83,55,2
+Sorting,Shell Sort (Pratt),1971,4.01,8659.01030927835,83,55,1
+Sorting,Shell Sort (Sedgewick),1986,4.33,8659.01030927835,83,55,1
+Sorting,Bitonic Merge Sort Parallel Implementation,1968,2,3399.1546391752577,83,55,2
+Sorting,Thorup's Sorting Algorithm,2002,4,1547.40206185567,83,55,1
+Sorting,Flash Sort,1998,5,1171.2577319587629,83,55,1
+Sorting,Bead Sort,2002,3,1965.8144329896909,83,55,3
+Sorting,Burst Sort,2004,4,524.6907216494845,83,55,2
+Sorting,Spreadsort,2002,4,266.16494845360825,83,55,1
+Matrix Chain Multiplication,T. C. Hu ; M. T. Shing,1982,4,4052.020618556701,83,27,2
+Longest Common Subsequence,Hunt and Szymanski,1977,3,347.3333333333333,49,46,2
+Longest Common Subsequence,Mukhopadhyay,1980,3,0.0,49,46,1
+Maximum Flow,Dinitz (with dynamic trees),1973,6,1797.9896907216496,72,26,5
+Maximum Flow,Cherkassky,1977,6,19338.721649484534,72,26,4
+Maximum Flow,Sleator & Tarjan,1983,6.01,6797.164948453608,72,26,2
+Maximum Flow,Goldberg & Tarjan,1986,6,8716.731958762886,72,26,2
+Maximum Flow,Ahuja & Orlin,1987,6,722.7525773195877,72,26,2
+Maximum Flow,Cheriyan & Hagerup,1989,6.01,0.0,72,26,2
+Maximum Flow,Cheriyan et al.,1990,5.99,0.0,72,26,3
+Maximum Flow,Alon,1990,6,0.0,72,26,1
+Maximum Flow,King et al. (KRT),1992,6,8716.731958762886,72,26,3
+Maximum Flow,Phillips & Westbrook,1993,6,0.0,72,26,2
+Maximum Flow,Goldberg & Rao,1997,6,8716.731958762886,72,26,2
+Maximum Flow,Goldberg & Rao,1997,5.66,8716.731958762886,72,26,2
+Maximum Flow,James B Orlin's + KRT (King; Rao; Tarjan)'s algorithm,2013,6,8716.731958762886,72,26,1
+Graph Coloring,Lawler,1976,8,2187.226804123711,171,34,1
+Graph Coloring,Schiermeyer,1994,8,0.0,171,34,1
+Graph Coloring,Beigel & Eppstein,1995,8,0.0,171,34,2
+Graph Coloring,Beigel & Eppstein,2000,8,13713.886597938144,171,34,2
+Graph Coloring,Lawler,1976,8,13713.886597938144,171,34,1
+Graph Coloring,Byskov,2004,8,13713.886597938144,171,34,1
+Linear System,Conjugate Gradient,1952,3,12364.546391752578,83,14,2
+Linear System,Harrow (Quantum),2009,2,5578.81443298969,83,14,3
+Linear Programming,Karmarkar's algorithm,1984,6.5,1741.5876288659797,83,8,1
+Linear Programming,Cohen; Lee and Song,2018,6,38723.13402061856,83,8,3
+Linear Programming,Lee and Sidford,2015,5.5,38723.13402061856,83,8,2
+Line segment intersection,Chazelle & Edelsbrunner,1992,4,1610.8969072164948,83,34,2
+Line segment intersection,CHAZELLE,1986,4,47924.742268041235,83,34,1
+Line segment intersection,NIEVERGELT. J.. AND PREPARATA (Section 3),1982,4,0.0,83,34,4
+Line segment intersection,"Jean-Daniel Boissonnat and Franco P.
+Preparata.",1997,4,0.0,83,34,2
+Line segment intersection,Balaban.,1995,4,0.0,83,34,1
+Line segment intersection,Boissonnat; Snoeyink,1999,4,0.0,83,34,2
+Line segment intersection,Goodrich,1989,2,0.0,83,34,1
+Convex Hull,Graham,1972,4,3352.505154639175,88,35,1
+Convex Hull,W. Eddy Quickhull,1977,5,5597.020618556701,88,35,1
+Convex Hull,Preparata and Hong,1977,4,5597.020618556701,88,35,2
+Convex Hull,Andrew's algorithm,1979,4,5597.020618556701,88,35,1
+Convex Hull,The ultimate planar convex hull algorithm,1986,4,445.30927835051546,88,35,2
+Convex Hull,Chan's algorithm,1996,4,1018.5154639175256,88,35,1
+Strongly Connected Components,Kosaraju's algorithm,1978,5,4467.639175257732,53,52,1
+Strongly Connected Components,Tarjan's strongly connected components algorithm,1972,5,5623.628865979382,53,52,1
+Strongly Connected Components,Path-based strong components algorithm; Dijkstra,1976,5,532.7113402061856,53,52,1
+Strongly Connected Components,Fleischer forward-backward (FB) algorithm,2003,5.01,7893.257731958763,53,52,4
+Strongly Connected Components,Pearce,2016,5,0.0,53,52,1
+Strongly Connected Components,Path-based depth-first search Gabow,2000,5,532.7113402061856,53,52,1
+Strongly Connected Components,Paul Purdom,1970,6,4722.948453608247,53,52,1
+Strongly Connected Components,Lowe‚Äôs Algorithm,2014,5,0.0,53,52,1
+Strongly Connected Components,Renault‚Äôs Algorithm,2009,5,0.0,53,52,4
+Strongly Connected Components,Couvreur,1999,5,0.0,53,52,1
+Strongly Connected Components,Munro‚Äôs algorithm,1971,5,532.7113402061856,53,52,1
+Strongly Connected Components,OBF Algorithm,2011,6,0.0,53,52,3
+Strongly Connected Components,CH Algorithm,2004,6,1197.3505154639174,53,52,1
+Strongly Connected Components,Hong‚Äôs algorithm,2013,6,0.0,53,52,3
+Minimum Spanning Tree (MST),Prim's algorithm + adjacency matrix searching,1957,5,19328.94845360825,97,66,1
+Minimum Spanning Tree (MST),Prim's algorithm + Fibonacci heaps; Fredman & Tarjan,1987,5,19328.94845360825,97,66,2
+Minimum Spanning Tree (MST),Kruskal's algorithm,1956,5.01,19895.81443298969,97,66,1
+Minimum Spanning Tree (MST),Yao's algorithm,1975,5.001,546.7938144329897,97,66,1
+Minimum Spanning Tree (MST),Cheriton-Tarjan Algorithm,1976,5.001,19328.94845360825,97,66,2
+Minimum Spanning Tree (MST),Filter Kruskal algorithm,2009,5.01,19895.81443298969,97,66,3
+Minimum Spanning Tree (MST),Chazelle's algorithm,2000,5,22169.01030927835,97,66,1
+Minimum Spanning Tree (MST),Thorup (reverse-delete),2000,5.02,858.2061855670103,97,66,1
+Closest Pair Problem,Fortune and Hopcroft,1979,4,4292.20618556701,48,43,2
+Closest Pair Problem,F. Preparata and M. Shamos,1986,4,1196.6082474226805,48,43,2
+Closest Pair Problem,Rabin' Algorithm,1976,5,7575.340206185567,48,43,1
+Closest Pair Problem,Bentley,1980,4,1610.8969072164948,48,43,1
+Closest Pair Problem,Bentley; Shamos,1976,4,1610.8969072164948,48,43,2
+Closest Pair Problem,Hinrichs; Nievergelt; Schorn,1988,4,0.0,48,43,3
+Closest Pair Problem,Shamos; Hoey,1975,4,243.0606060606061,48,43,2
+Closest Pair Problem,Dyer,1980,3,0.0,48,43,1
+Shortest Path (Directed Graphs),Bellman‚ÄìFord algorithm (Ford 1956),1956,7,18582.01030927835,67,63,1
+Shortest Path (Directed Graphs),Bellman‚ÄìFord algorithm (Shimbel 1955; Bellman 1958; Moore 1959),1959,6,18582.01030927835,67,63,1
+Shortest Path (Directed Graphs),Bellman‚ÄìFord algorithm (Dantzig 1960),1960,5.01,18582.01030927835,67,63,1
+Shortest Path (Directed Graphs),Dijkstra's algorithm with list (Whiting & Hillier 1960),1960,5,19338.721649484534,67,63,2
+Shortest Path (Directed Graphs),Dijkstra's algorithm with binary heap (Johnson 1977),1977,5.01,19338.721649484534,67,63,1
+Shortest Path (Directed Graphs),Dijkstra's algorithm with Fibonacci heap (Fredman & Tarjan 1984; Fredman & Tarjan 1987),1984,5,19338.721649484534,67,63,2
+Shortest Path (Directed Graphs),Dijkstra's algorithm with Fibonacci heap (Johnson 1981; Karlsson & Poblete 1983),1981,5,19338.721649484534,67,63,2
+Shortest Path (Directed Graphs),Gabow's algorithm,1983,5,19338.721649484534,67,63,1
+Shortest Path (Directed Graphs),Gabow Ahuja Algorithm,1990,5,19338.721649484534,67,63,4
+Shortest Path (Directed Graphs),Thorup's algorithm,2004,5,19338.721649484534,67,63,1
+All-Pairs Shortest Paths (APSP),Shimbel Algorithm,1953,7,19338.721649484534,70,28,1
+All-Pairs Shortest Paths (APSP),Floyd‚ÄìWarshall algorithm,1962,6,17875.123711340206,70,28,1
+All-Pairs Shortest Paths (APSP),Seidel's algorithm,1995,5.373,243.49295774647888,70,28,1
+All-Pairs Shortest Paths (APSP),Williams,2014,6,19338.721649484534,70,28,1
+All-Pairs Shortest Paths (APSP),Pettie & Ramachandran,2002,6,19338.721649484534,70,28,2
+All-Pairs Shortest Paths (APSP),Thorup,1999,6,19338.721649484534,70,28,1
+All-Pairs Shortest Paths (APSP),Chan (Geometrically Weighted),2009,5.844,0.0,70,28,1
+All-Pairs Shortest Paths (APSP),Chan,2009,6,0.0,70,28,1
+Integer Factoring,Pollard's p ‚àí 1 algorithm,1974,8,1216.3917525773195,821,48,1
+Integer Factoring,Williams' p + 1 algorithm,1982,8,232.65671641791045,821,48,1
+Integer Factoring,Lenstra elliptic curve factorization,1987,8,1515.4084507042253,821,48,1
+Integer Factoring,Fermat's factorization method,1894,8,2410.773195876289,821,48,2
+Integer Factoring,Dixon's algorithm,1981,8,528.0618556701031,821,48,1
+Integer Factoring,Continued fraction factorization (CFRAC),1931,8,372.8144329896907,821,48,2
+Integer Factoring,Rational sieve,1993,8,335.12371134020617,821,48,4
+Integer Factoring,Shanks's square forms factorization (SQUFOF),2007,8,292.8382352941176,821,48,2
+LU Decomposition,Randomized LU Decomposition,2016,4.5,0.0,145,48,4
+LU Decomposition,"Press, Teukolsky, Flannery",2007,4.5,1418.1958762886595,145,48,4
+Informed Search,Block A*,2011,8,945.40206185567,64,64,4
+Informed Search,D*,1994,8,2702.3092783505153,64,64,1
+Informed Search,Field D*,2006,8,945.40206185567,64,64,2
+String Search,Tuned Boyer-Moore algorithm,1991,5,1401.5360824742268,83,48,2
+Sequence Alignment,FOGSAA,2013,5,6119.030927835051,53,43,2
+Line Clipping,O(lg N) algorithm,1994,3,1719.2371134020618,56,56,1
+Line Clipping,Skala,1996,3,0.0,56,56,1
+Multiplication,Sch√∂nhage‚ÄìStrassen algorithm,1971,4.001,3278.9484536082473,83,4,2
+Multiplication,Furer's algorithm,2007,7,9020.917525773197,83,4,1
+Multiplication,De,2008,7,9020.917525773197,83,4,4
+Multiplication,Harvey; Hoeven,2019,4,9020.917525773197,83,4,2
+Multiplication,Harvey; Hoeven; Lecerf,2015,7,9020.917525773197,83,4,3
+Multiplication,Covanov and Thom√©,2015,7,0.0,83,4,2
+Multiplication,Covanov and Thom√©,2016,7,9020.917525773197,83,4,2
+Multiplication,Harvey; Hoeven; Lecerf,2018,7,9020.917525773197,83,4,2
+Mutual Exclusion,Lamport's bakery algorithm,1974,3,2355.556701030928,60,33,1
+Mutual Exclusion,Szymanski's algorithm,1988,3,814.4123711340206,60,33,1
+Mutual Exclusion,Taubenfeld's black-white bakery algorithm,2004,3,10102.030927835052,60,33,1
+Mutual Exclusion,Maekawa's algorithm,1985,2.5,422.4845360824742,60,33,1
+Mutual Exclusion,Raymond's algorithm,1997,2,209.8556701030928,60,33,1
+Shown Surface Determination,Painter's algorithm/Newell's algorithm,1972,4,276.5773195876289,54,54,3
+Shown Surface Determination,Warnock's algorithm,1969,3,489.45360824742266,54,54,1
+Shown Surface Determination,Z-buffering,1974,3,4571.865979381443,54,54,1
+Eigenvalues (Iterative Methods),Power Iteration,1929,3,5269.1752577319585,177,24,2
+Delaunay Triangulation,Fortune,1987,4,2468.639175257732,89,27,1
+Maximum Subarray Problem,Gries,1982,3,12457.59793814433,46,28,1
+Maximum Subarray Problem,Bird,1989,3,12457.59793814433,46,28,1
+Maximum Subarray Problem,"Ferreira, Camargo, Song",2014,2,0.0,46,28,3
+Integer Relation,HJLS algorithm,1986,7,488.4845360824742,44,44,4
+The Traveling-Salesman Problem,Applegate et al.,2006,7,47464.0206185567,69,21,4
+The Traveling-Salesman Problem,Johnson; D. S.; McGeoch; L. A.,1997,8,47464.0206185567,69,21,2
+The Traveling-Salesman Problem,Rosenkrantz; D. J.; Stearns; R. E.; Lewis; P. M.,1974,5,47464.0206185567,69,21,3
+The Traveling-Salesman Problem,Lin‚ÄìKernighan,1981,5,881.7113402061856,69,21,2
+De Novo Genome Assembly,Greedy SEQAID,1984,5,896.974358974359,39,13,3
+Ray Tracing,Appel's algorithm 1968,1968,5,26261.680412371137,67,67,1
+Ray Tracing,Whitted's algorithm 1979,1979,5,26261.680412371137,67,67,1
+Ray Tracing,J.-C. Nebel 1998,1998,5,0.0,67,67,1
+Feature Detection,Moravec's algorithm 1980,1980,6,4344.938144329897,43,8,1
+Feature Detection,J. J. Koenderink and W. Richards 1988,1988,6,4344.938144329897,43,8,2
+Feature Detection,Lindeberg (1998),1998,5,4344.938144329897,43,8,1
+Feature Detection,K. Mikolajczyk; K. and C. Schmid LoG 2004,2004,5,4344.938144329897,43,8,2
+Feature Detection,Lowe (2004),2004,5,4344.938144329897,43,8,1
+Feature Detection,FAST E. Rosten and T. Drummond 2006,2006,6,4344.938144329897,43,8,2
+Feature Detection,Trujillo and Olague 2008,2008,5,4344.938144329897,43,8,2
+Feature Detection,Geert Willems; Tinne Tuytelaars and Luc van Gool (2008),2008,5,4344.938144329897,43,8,3
+Texture Synthesis,Kwatra 2003,2003,6,860.3814432989691,25,22,5
+Rasterization,Digital Differential Analyzer (DDA),1983,3,4101.577319587629,61,61,2
+Rasterization,Bresenham Algorithm,1962,3,15774.40206185567,61,61,2
+SLAM Algorithms,FastSlam,2003,2,15218.62886597938,25,20,4
+SLAM Algorithms,srba,2002,5,0.0,25,20,3
+Change-Making Problem,Probabilistic Convolution Tree,2014,4,4004.0,83,9,1
+Sorting,Odd Even Sort Parallel  Implementation,1972,5,1484.8144329896909,83,55,1
+Sorting,Spaghetti Sort Parallel Implementation,1984,3,2284.030927835051,83,55,1
+Matrix Chain Multiplication,Heejo Lee; Jong Kim; Sungje Hong; and Sunggu Lee,1997,5,4052.020618556701,83,27,4
+Matrix Chain Multiplication,Prakesh Ramanan,1996,2.03,0.0,83,27,1
+Matrix Chain Multiplication,Czumaj,1993,2.02,4052.020618556701,83,27,1
+Longest Common Subsequence,Hsu and Du (Scheme 2),1984,5.01,0.0,49,46,2
+Longest Common Subsequence,Apostolico and Guerra (HS1 Algorithm),1987,5,0.0,49,46,2
+Longest Common Subsequence,Kuo and Cross,1989,5,0.0,49,46,2
+Longest Common Subsequence,Rick,1995,5,0.0,49,46,1
+Longest Common Subsequence,Rick,1995,5,0.0,49,46,1
+Longest Common Subsequence,Hirschberg,1977,5,1332.1958762886595,49,46,1
+Longest Common Subsequence,Hsu and Du (Scheme 1),1984,5,0.0,49,46,2
+Longest Common Subsequence,Apostolico and Guerra (Algorithm 2),1987,5,0.0,49,46,2
+Longest Common Subsequence,Chin and Poon,1991,5,0.0,49,46,2
+Longest Common Subsequence,Nakatsu et al.,1982,5,0.0,49,46,3
+Longest Common Subsequence,Miller and Myers,1985,5,0.0,49,46,2
+Longest Common Subsequence,Wu et al.,1990,5,0.0,49,46,2
+Maximum Flow,Ahuja et al.,1987,6,0.0,72,26,2
+Graph Coloring,Robson,1986,8,0.0,171,34,1
+Graph Coloring,Sch√∂ning,1999,8,17731.164948453606,171,34,1
+Graph Coloring,Hirsch,1998,8,0.0,171,34,1
+Graph Coloring,Johnson,1988,8,7645.051546391753,171,34,3
+Graph Coloring,Alon and Kahale,1997,8,0.0,171,34,2
+Convex Hull,Incremental convex hull algorithm; Michael Kallay,1984,4,5597.020618556701,88,35,1
+Minimum Spanning Tree (MST),Bader & Cong Parallel Implementation,2006,5.01,273.27450980392155,97,66,2
+Integer Factoring,General number field sieve,1996,8,3842.19587628866,821,48,1
+Integer Factoring,Shor's algorithm Quantum Implementation,1994,3,20733.81443298969,821,48,1
+String Search,Two-way String-Matching Algorithm,1991,3,478.7234042553192,83,48,2
+String Search,Quick-Skip Searching,2012,5,0.0,83,48,3
+String Search,Fast Hybrid Algorithm,2017,3,0.0,83,48,4
+String Search,Backward Non-Deterministic DAWG Matching (BNDM),1998,3,6916.064516129032,83,48,2
+String Search,Commentz-Walter Algorithm,1979,5,405.35051546391753,83,48,1
+String Search,Aho‚ÄìCorasick (AC) Algorithm,1975,3,4371.092783505154,83,48,2
+String Search,Boyer-Moore-Horspool (BMH),1980,5,1401.5360824742268,83,48,1
+String Search,Raita Algorithm,1991,5,115.31460674157304,83,48,1
+String Search,BOM (Backward Oracle Matching),1999,5,6916.064516129032,83,48,3
+String Search,Apostolico‚ÄìGiancarlo Algorithm,1986,3,197.7835051546392,83,48,2
+Sequence Alignment,Gapped BLAST,1997,5,10251.061224489797,53,43,1
+Sequence Alignment,Basic Local Alignment Search Tool (BLAST),1990,5,10251.061224489797,53,43,4
+Maximum Cardinality Matching,Ford‚ÄìFulkerson algorithm,1956,6,8510.536082474227,67,12,2
+Maximum Cardinality Matching,Hopcroft‚ÄìKarp algorithm,1973,5.5,2304.5257731958764,67,12,2
+Maximum Cardinality Matching,Mucha; Sankowski (planar),2006,4.1864298,554.2886597938144,67,12,2
+Maximum Cardinality Matching,Madry's algorithm,2013,5.857,554.2886597938144,67,12,1
+Maximum Cardinality Matching,Chandran and Hochbaum,2011,3,554.2886597938144,67,12,2
+Maximum Cardinality Matching,Blum,1990,5.5,0.0,67,12,1
+Maximum Cardinality Matching,Gabow; Tarjan,1991,5.5,634.2886597938144,67,12,2
+Maximum Cardinality Matching,"Mucha, Sankowski (general)",2004,5.376,554.2886597938144,67,12,2
+Maximum Cardinality Matching,Klein (section 5),1997,4.33,0.0,67,12,4
+Key Exchange,Diffie‚ÄìHellman key exchange,1978,7,41709.948453608245,45,45,2
+Mutual Exclusion,Peterson's algorithm,1981,3,5122.742268041237,60,33,1
+Mutual Exclusion,Naimi-Trehel's algorithm,1996,2,17.5,60,33,3
+Mutual Exclusion,Chan-Singhal-Liu,1990,2,0.0,60,33,3
+SDD Systems Solvers,"Spielman, Teng",2004,4,2472.907216494845,83,19,2
+SDD Systems Solvers,Gremban; Miller; Zagha,1995,3,0.0,83,19,3
+SDD Systems Solvers,Bern; Gilbert;  Hendrickson,2006,2.501,0.0,83,19,5
+SDD Systems Solvers,Boman; Hendrickson,2003,4.25,0.0,83,19,2
+SDD Systems Solvers,Boman; Chen; Hendrickson; Toledo,2004,2.5,0.0,83,19,4
+SDD Systems Solvers,Koutis; Miller and Peng,2010,4,0.0,83,19,3
+SDD Systems Solvers,Koutis; Miller and Peng,2011,4,0.0,83,19,3
+SDD Systems Solvers,Blelloch; Koutis;  Miller; Tangwongsan,2010,2.51,0.0,83,19,4
+SDD Systems Solvers,Briggs; Henson; McCormick,2000,2.635,1938.1443298969073,83,19,3
+SDD Systems Solvers,Kelner; Orecchia; Sidford; Zhu,2013,4.011,0.0,83,19,4
+SDD Systems Solvers,Lee; Peng; Spielman,2015,2.5,950.2886597938144,83,19,3
+SDD Systems Solvers,Daitch; Spielman,2007,2.635,0.0,83,19,2
+Cycle Detection,Floyd's tortoise and hare algorithm,1967,3,8665.453608247422,56,56,1
+Cycle Detection,Brent's algorithm,1973,3,8665.453608247422,56,56,1
+Cycle Detection,Gosper's algorithm,1978,4,257.87628865979383,56,56,3
+Generating Random Permutations,Fisher‚ÄìYates/Knuth shuffle,1938,5,13282.494845360823,136,136,2
+Generating Random Permutations,Durstenfeld's Algorithm 235,1964,3,13282.494845360823,136,136,1
+Generating Random Permutations,Sattolo's algorithm,1986,3,13282.494845360823,136,136,1
+Convex Optimization (Non-linear),Gomory's cutting method,1953,8,2525.40206185567,70,42,2
+Convex Optimization (Non-linear),Wolfe; Lemar√©chal; Kiwiel,1964,7,9184.030927835052,70,42,1
+Convex Optimization (Non-linear),Ellipsoid method,1971,5.01,1330.5773195876288,70,42,1
+Convex Optimization (Non-linear),Subgradient method,1981,5,2061.680412371134,70,42,1
+Gr√∂bner Bases,Buchberger's algorithm,1976,8,750.6082474226804,47,47,1
+Gr√∂bner Bases,Faug√®re F4 algorithm,1999,8,261.9484536082474,47,47,1
+Gr√∂bner Bases,Faug√®re F5 algorithm,2002,8,261.9484536082474,47,47,1
+Minimum value in each row of an implicitly-defined totally monotone matrix,SMAWK algorithm,1987,2.51,220.75257731958763,83,36,5
+All Permutations,Steinhaus‚ÄìJohnson‚ÄìTrotter algorithm,1963,3,1478.9690721649486,67,67,1
+All Permutations,Tompkins‚ÄìPaige algorithm,1956,3,24.690721649484537,67,67,1
+All Permutations,Heap's algorithm,1963,3,4544.546391752578,67,67,1
+Optimal Binary Search Trees,Garsia‚ÄìWachs algorithm,1977,4,160.01724137931035,83,27,2
+Optimal Binary Search Trees,Hu‚ÄìTucker algorithm,1971,4,28545.628865979383,83,27,2
+Optimal Binary Search Trees,Yao,1982,5,0.0,83,27,1
+Optimal Binary Search Trees,Levcopoulos; Lingas; Sack,1989,3,333.27659574468083,83,27,3
+Optimal Binary Search Trees,de Prisco,1993,3,0.0,83,27,2
+Nash Equilibria,Lemke‚ÄìHowson algorithm,1964,8,292.69072164948454,59,59,2
+Nash Equilibria,Lipton; Mehta,2003,8,248.15463917525773,59,59,3
+Maximum-Weight Matching,Hungarian algorithm,1955,7,10420.721649484536,68,19,1
+Maximum-Weight Matching,Edmonds,1965,7,1234.5773195876288,68,19,1
+Maximum-Weight Matching,Micali; Vazirani,1980,6.01,2304.5257731958764,68,19,2
+Maximum-Weight Matching,Mucha and Sankowski,2004,6,554.2886597938144,68,19,2
+Constructing Eulerian Trails in a Graph,Fleury's algorithm + Tarjan,1974,7,13766.896907216496,150,150,1
+Constructing Eulerian Trails in a Graph,Fleury's algorithm + Thorup,2000,5.03,0.0,150,150,1
+Discrete Fourier Transform,Cooley‚ÄìTukey algorithm,1965,4,7888.927835051546,58,58,2
+Discrete Fourier Transform,Rader‚ÄìBrenner algorithm,1976,4,46755.886597938144,58,58,2
+Discrete Fourier Transform,Bruun's FFT algorithm,1978,4,213.1958762886598,58,58,1
+Discrete Fourier Transform,Yavne Split Radix FFT algorithm,1968,4,512.1443298969073,58,58,1
+Discrete Fourier Transform,Gentleman; Morven and Gordon Sande radix-4 algorithm,1966,4,46755.886597938144,58,58,1
+Discrete Fourier Transform,Bergland; Glenn radix-8 algorithm,1969,4,0.0,58,58,1
+Discrete Fourier Transform,Extended Split Radix FFT algorithm,2001,4,0.0,58,58,1
+Discrete Fourier Transform,Von zur Gathen-Gerhard additive FFT,1996,4.01,0.0,58,58,2
+Discrete Fourier Transform,Wang-Zhu-Cantor additive FFT,1988,4.00585,0.0,58,58,2
+Discrete Fourier Transform,Gao‚Äôs additive FFT,2010,4.001,0.0,58,58,2
+Line Drawing,Bresenham's line algorithm,1965,3,15774.40206185567,83,83,1
+Polygon Clipping,Greiner‚ÄìHormann clipping algorithm,1998,5,431.0412371134021,49,49,2
+Polygon Clipping,Sutherland‚ÄìHodgman algorithm,1974,5,2393.298969072165,49,49,2
+Polygon Clipping,Vatti clipping algorithm,1992,5,800.6185567010309,49,49,1
+Polygon Clipping,Weiler‚ÄìAtherton clipping algorithm,1977,5,825.3917525773196,49,49,2
+Eigenvalues (Iterative Methods),Inverse iteration,1921,3,1245.7835051546392,177,24,1
+Eigenvalues (Iterative Methods),QR algorithm,1962,3,3342.3298969072166,177,24,1
+Eigenvalues (Iterative Methods),Jacobi eigenvalue algorithm,1846,3,1752.0824742268042,177,24,1
+Eigenvalues (Iterative Methods),Divide-and-conquer,1986,2.51,16840.18556701031,177,24,2
+Eigenvalues (Iterative Methods),Homotopy method,1992,3,868.8247422680413,177,24,3
+Eigenvalues (Iterative Methods),Folded spectrum method,1934,3,80.73195876288659,177,24,1
+Eigenvalues (Iterative Methods),MRRR algorithm,1999,2.5,4672.082474226804,177,24,3
+Root Computation,Ridder's method,1979,3,465.25773195876286,333,333,1
+Root Computation,Muller's method,1956,3,1443.2577319587629,333,333,1
+Coset Enumeration,Todd‚ÄìCoxeter algorithm,1936,8,232.2680412371134,87,87,2
+Coset Enumeration,Knuth‚ÄìBendix algorithm,1970,8,652.5876288659794,87,87,2
+Maximum Likelihood Parameters,Expectation‚Äìmaximization (EM) algorithm,1977,6,19184.103092783505,338,6,3
+Maximum Likelihood Parameters,Parameter-expanded expectation maximization (PX-EM) algorithm,1998,6,19184.103092783505,338,6,3
+Maximum Likelihood Parameters,Expectation conditional maximization (ECM),2017,5.01,19184.103092783505,338,6,2
+Maximum Likelihood Parameters,Generalized expectation maximization (GEM) algorithm,1994,7,19184.103092783505,338,6,2
+Maximum Likelihood Parameters,Œ±-EM algorithm,2003,6,19184.103092783505,338,6,1
+Cardinality Estimation,Flajolet‚ÄìMartin algorithm,1984,3,836.360824742268,83,83,2
+Cardinality Estimation,LogLog algorithm,2003,3,5904.4639175257735,83,83,2
+Cardinality Estimation,HyperLogLog algorithm,2007,3,5904.4639175257735,83,83,4
+Cardinality Estimation,HyperLogLog++,2014,3,5904.4639175257735,83,83,3
+Register Allocation,Chaitin's Algorithm,1981,5,168.9278350515464,42,24,1
+Register Allocation,Chow's Algorithm,1984,5,0.0,42,24,2
+Register Allocation,"Linear Scan, Poletto & Sarkar",1999,3,2994.59793814433,42,24,2
+Register Allocation,"Optimal Register Allocation (ORA), Goodwin & Wilken Algorithm",1996,6,0.0,42,24,2
+Register Allocation,Kong and Wilken Algorithm,1998,6,0.0,42,24,2
+Voronoi Diagrams,Fortune's algorithm,1986,4,2468.639175257732,43,43,1
+Voronoi Diagrams,Linde‚ÄìBuzo‚ÄìGray algorithm,1980,4,579.7628865979382,43,43,3
+Voronoi Diagrams,Bowyer‚ÄìWatson algorithm,1981,4,1188.618556701031,43,43,1
+Variance Calculations,Welford's Online algorithm,1962,3,30544.77319587629,83,44,1
+Variance Calculations,Weighted incremental algorithm,1979,3,30544.77319587629,83,44,1
+Variance Calculations,Chan's algorithm Parallel Implementation,1979,2,0.0,83,44,3
+Topological Sorting,Kahn's algorithm,1962,5,22507.60824742268,61,42,1
+Topological Sorting,Tarjan's DFS based algorithm,1976,5,5623.628865979382,61,42,1
+Topological Sorting,Dekel; Nassimi & Sahni Parallel Implementation,1981,2,22507.60824742268,61,42,3
+DFA Minimization,Moore's algorithm,1956,5,3009.1958762886597,67,31,1
+DFA Minimization,Brzozowski's algorithm,1963,8,3009.1958762886597,67,31,1
+DFA Minimization,Revuz's algorithm,1992,3,0.0,67,31,1
+DFA Minimization,Almeida & Zeitoun,2008,3,0.0,67,31,2
+Lowest Common Ancestor,Tarjan's off-line lowest common ancestors algorithm,1984,3,634.2886597938144,39,39,2
+Lowest Common Ancestor,Schieber; Vishkin,1988,3,3888.6907216494847,39,39,2
+Lowest Common Ancestor,Berkman; Vishkin,1993,3,3888.6907216494847,39,39,2
+Lowest Common Ancestor,Bender; Colton [LCA <=> RMQ],2000,3,3888.6907216494847,39,39,2
+Lowest Common Ancestor,"Stephen Alstrup, Cyril Gavoille, Haim Kaplan & Theis Rauhe",2004,3,3888.6907216494847,39,39,4
+Graph Edit Distance Computation,X Chen,2019,8,0.0,40,17,4
+Graph Edit Distance Computation,Y Bai,2018,5,0.0,40,17,6
+Graph Edit Distance Computation,L Chang,2017,7,0.0,40,17,5
+Graph Edit Distance Computation,K Riesen,2013,5,0.0,40,17,3
+Graph Edit Distance Computation,Alberto Sanfeliu and King-Sun Fu,1983,7,770.4065934065934,40,17,2
+Graph Edit Distance Computation,"Neuhaus, Riesen, Bunke",2006,5,0.0,40,17,3
+Graph Edit Distance Computation,Wang Y-K; Fan K-C; Horng J-T,1997,7,0.0,40,17,3
+Graph Edit Distance Computation,Tao D; Tang X; Li X et al,2006,5,0.0,40,17,4
+Graph Edit Distance Computation,Finch,1998,7,0.0,40,17,3
+Clique Problems,Bron‚ÄìKerbosch algorithm,1973,8,1403.0618556701031,50,19,2
+Clique Problems,Akkoyunlu; E. A.,1973,8,1403.0618556701031,50,19,1
+Clique Problems,Tomita; Tanaka & Takahashi,2006,8,1403.0618556701031,50,19,3
+Clique Problems,Segundo; Artieda;  Strash Parallel,2011,8,0.0,50,19,3
+Clique Problems,"David Eppstein, Maarten L√∂ffler, Darren Strash",2010,8,1403.0618556701031,50,19,3
+Clique Problems,Chiba and Nishizeki,1985,6,56.21649484536083,50,19,2
+Clique Problems,M. Chrobak and D. Eppstein,1989,8,0.0,50,19,2
+Clique Problems,"Shuji Tsukiyama, Mikio Ide, Hiromu Ariyoshi, and Isao Shirakawa",1977,6,0.0,50,19,4
+Clique Problems,"Kazuhisa Makino, Takeaki Uno; Section 5",2004,5.3728596,0.0,50,19,2
+The Traveling-Salesman Problem,Held‚ÄìKarp algorithm,1962,8,2032.0515463917525,69,21,2
+The Traveling-Salesman Problem,Christofides algorithm,1976,6,2296.6494845360826,69,21,1
+The Traveling-Salesman Problem,Lawler; E. L.,1985,8,18190.56701030928,69,21,2
+The Traveling-Salesman Problem,TSPLIB,1991,8,47464.0206185567,69,21,1
+Poisson Problem,9-point Tensor product,1964,6,0.0,78,58,3
+Poisson Problem,9-point Tensor product,1964,7,0.0,78,58,3
+Delaunay Triangulation,Flipping algorithm,1999,5,15172.701030927836,89,27,3
+Delaunay Triangulation,de Berg; Cheong,2008,4,0.0,89,27,1
+Delaunay Triangulation,Bowyer‚ÄìWatson algorithm,1981,4,1188.618556701031,89,27,1
+Delaunay Triangulation,Belloch,2006,4,0.0,89,27,4
+Delaunay Triangulation,Guibas; Stofli,1985,4,0.0,89,27,1
+Delaunay Triangulation,Fortune,1992,5,0.0,89,27,1
+Delaunay Triangulation,S-hull (Sinclair),2010,4,0.0,89,27,1
+Delaunay Triangulation,Dwyer,1987,4,15172.701030927836,89,27,1
+Delaunay Triangulation,Katajainen and M. Koppinen,1988,4,0.0,89,27,2
+Delaunay Triangulation,Drysdale; Su,1996,3,0.0,89,27,2
+Delaunay Triangulation,Dwyer (higher dimensions),1987,3.99,15172.701030927836,89,27,1
+De Novo Genome Assembly,"de Bruijn Graph (Idury, Waterman)",1994,5,0.0,39,13,2
+De Novo Genome Assembly,String Graph (Myers),1994,4,0.0,39,13,1
+De Novo Genome Assembly,"String Graph with Ferragina‚ÄìManzini Index (Simpson, Durbin)",2010,3,0.0,39,13,2
+Dependency Inference Problem,Brute force algorithm,1967,8,0.0,56,56,2
+BCNF Decomposition,Liu,1992,6,0.0,31,31,1
+Dependency Inference Problem,R√§ih√§; Manilla,1992,8,0.0,56,56,2
+Dependency Inference Problem,Catriel Beeri Ronald Fagin John H. Howard,1977,8,0.0,56,56,3
+The Vertex Cover Problem,Chen; I. Kanj; and W. Jia.,2001,8,514.5051546391752,83,83,1
+The Vertex Cover Problem,Chandran and F. Grandoni,2004,8,0.0,83,83,2
+The Vertex Cover Problem,Chen; I. Kanj; and W. Jia.,2006,8,8103.144329896907,83,83,3
+The Vertex Cover Problem,J. Chen; L. Liu; and W. Jia.,2000,8,0.0,83,83,3
+The Vertex Cover Problem,Balasubramanian; Fellows,1996,8,0.0,83,83,3
+The Vertex Cover Problem,Papadimitriou and M Yannakakis,1996,8,942.4536082474228,83,83,2
+The Vertex Cover Problem,"Niedermeier, Rossmanith",1999,8,0.0,83,83,1
+The Vertex Cover Problem,Downey,1998,8,0.0,83,83,3
+CFG Problems,Cocke‚ÄìYounger‚ÄìKasami algorithm,1968,6,3869.752577319587,55,48,1
+CFG Problems,Valiant,1975,5.3728596,0.0,55,48,1
+CFG Problems,Earley parser,1968,6,1763.5257731958764,55,48,1
+CFG Problems,GLR parser,1974,6,1052.4536082474226,55,48,1
+Finding Frequent Itemsets,A-Priori algorithm,1994,5,9207.0,29,29,2
+Finding Frequent Itemsets,The Algorithm of Park; Chen; and Yu (PCY),1995,5,0.0,29,29,3
+Data Compression,Gupta; Verdu,2009,5.03,0.0,83,15,2
+Data Compression,Discrete Cosine Transform,1974,5,16640.0,83,15,3
+Data Compression,Maneva and M. J. Wainwright,2005,5,0.0,83,15,2
+Data Compression,Ciliberti; M√©zard,2005,5,0.0,83,15,3
+Data Compression,Matsunaga; Yamamoto,2003,8,0.0,83,15,2
+Data Compression,Sun; M. Shao; J. Chen; K. Wong; and X. Wu,2010,8,0.0,83,15,5
+Data Compression,Miyake 2006,2006,8,0.0,83,15,1
+Data Compression,Martinian and M. J. Wainwright,2006,8,0.0,83,15,2
+Data Compression,Jalali and T. Weissman,2008,3,0.0,83,15,2
+Data Compression,Jalali; A. Montanari; and T. Weissman,2010,3,0.0,83,15,3
+Data Compression,Korada and R. Urbanke;,2010,8,0.0,83,15,2
+Factorization of Polynomials Over Finite Fields,Berlekamp's algorithm,1967,6.01,612.2989690721649,83,33,1
+Factorization of Polynomials Over Finite Fields,Cantor‚ÄìZassenhaus algorithm,1981,6.01,355.03092783505156,83,33,2
+Factorization of Polynomials Over Finite Fields,Victor Shoup's algorithm,1990,5,1361.1958762886595,83,33,1
+Cryptanalysis of Linear Feedback Shift Registers,Berlekamp‚ÄìMassey algorithm,1969,5,1324.0309278350514,54,54,1
+Stable Matching Problem,Gale‚ÄìShapley algorithm,1962,5,3003.6082474226805,61,15,2
+Stable Matching Problem,Irving's Algorithm,1985,5,1399.7835051546392,61,15,1
+Stable Matching Problem,Manlove; Malley,2005,5,0.0,61,15,2
+Stable Matching Problem,Unsworth; C.; Prosser; P,2005,5,0.0,61,15,2
+Stable Matching Problem,Hentenryck et. al.,1992,6,0.0,61,15,2
+Stable Matching Problem,Gent; I.P.; Irving; R.W.; Manlove; D.F.; Prosser; P.; Smith; B.M.,2001,5,0.0,61,15,5
+Stable Matching Problem,Patrick Posser,2014,6,0.0,61,15,1
+Stable Matching Problem,S. S. TSENG and R. C. T. LEE,1984,5,0.0,61,15,2
+Stable Matching Problem,"Tomas Feder, Nimrod Megiddoy, Serge A Plotki",1994,2.5,0.0,61,15,3
+Longest Path Problem,Ioannidou; Kyriaki; Mertzios; George B.; Nikolopoulos; Stavros D.,2011,7,5857.360824742268,12,12,3
+Constructing Suffix Trees,Weiner's algorithm,1973,3,6595.412371134021,50,26,1
+Constructing Suffix Trees,Ukkonen,1995,3,6595.412371134021,50,26,1
+Constructing Suffix Trees,Ukkonen and D. Wood,1993,5,0.0,50,26,2
+Constructing Suffix Trees,Hariharan,1997,2.03,0.0,50,26,1
+Constructing Suffix Trees,S√ºleyman Cenk Sahinalp ; Uzi Vishkin,1994,2.01,0.0,50,26,2
+Constructing Suffix Trees,Farach,1997,2,6595.412371134021,50,26,2
+Constructing Suffix Trees,Rytter,2004,2,0.0,50,26,2
+Entity Resolution,Fellegi & Sunter Model,1969,6.5,2777.979381443299,54,34,2
+Entity Resolution,Gupta & Sarawagi CRF,2009,6.5,0.0,54,34,2
+Entity Resolution,EM Based Winkler,2000,6.5,0.0,54,34,1
+Entity Resolution,Ravikumar & Cohen Generative Models,2004,5.5,0.0,54,34,2
+Entity Resolution,Bellare Active Learning,2012,5.01,0.0,54,34,4
+Entity Resolution,Ananthakrishna,2002,5.5,0.0,54,34,3
+Entity Resolution,BOYS algorithm,1993,5.5,0.0,54,34,1
+Longest Palindromic Substring,Manacher,1975,3,7184.938144329897,83,48,1
+Longest Palindromic Substring,Jeuring,1994,3,7184.938144329897,83,48,1
+Longest Palindromic Substring,Gusfield,1997,3,7184.938144329897,83,48,1
+Register Allocation,Demand-Driven Register Allocation,1996,5,0.0,42,24,2
+AST to Code Translation,Sethi‚ÄìUllman Algorithm,1970,3,263.17525773195877,53,53,2
+Graph Isomorphism Problem,Babai and Luks,1983,8,3338.742268041237,47,47,2
+Graph Isomorphism Problem,Babai,1980,8,0.0,47,47,1
+Graph Isomorphism Problem,Spielman,1996,8,0.0,47,47,1
+Graph Isomorphism Problem,Schmidt & Druffel,1976,8,3338.742268041237,47,47,2
+Graph Isomorphism Problem,Babai,2017,7.5,3338.742268041237,47,47,1
+Graph Isomorphism Problem,Muzychuk,2004,5,3338.742268041237,47,47,1
+Graph Isomorphism Problem,Bodlaender,1990,7,0.0,47,47,1
+Graph Isomorphism Problem,Babai & Codenotti,2008,8,3338.742268041237,47,47,2
+Graph Realization Problems,Kleitman‚ÄìWang Algorithm,1973,3,51.49484536082474,50,50,2
+Graph Realization Problems,Fulkerson‚ÄìChen‚ÄìAnstee,1982,3,69.90721649484536,50,50,1
+Graph Realization Problems,Berger & M√ºller-Hannemann,2011,8,58.7319587628866,50,50,2
+Duplicate Elimination,Sorted Neighborhood Algorithm (SNA),1998,5,0.0,59,59,2
+Duplicate Elimination,Adaptive Duplicate Detection Algorithm (ADD),2003,6,0.0,59,59,2
+Hyperbolic Spline Interpolation,B.I. Kvasov,2008,6,0.0,55,15,1
+Hyperbolic Spline Interpolation,V. A. Lyul‚Äôka and A. V. Romanenko,1994,7,0.0,55,15,2
+Hyperbolic Spline Interpolation,V. A. Lyul‚Äôka and I. E. Mikhailov,2003,7,0.0,55,15,2
+Hyperbolic Spline Interpolation,"P. Costantini, B. I. Kvasov, and C. Manni",1999,7,0.0,55,15,3
+Hyperbolic Spline Interpolation,B. I. Kvasov,2000,7,0.0,55,15,1
+Mesh Parameterization,ECK M.; DEROSE T.; DUCHAMP T.; 1995,1995,5,0.0,30,16,6
+Mesh Parameterization,FLOATER 1997,1997,5,0.0,30,16,1
+Mesh Parameterization,PINKALL U.; POLTHIER K 1993,1993,5,32.26086956521739,30,16,2
+Mesh Parameterization,FLOATER 2003,2003,5,0.0,30,16,1
+Mesh Parameterization,LEE Y.; KIM H. S.; LEE S 2002,2002,4.02,0.0,30,16,3
+Mesh Parameterization,DESBRUN M.; MEYER M.; ALLIEZ P. 2002,2002,5,0.0,30,16,3
+Mesh Parameterization,KARNI Z.; GOTSMAN C.; GORTLER S. J. 2005,2005,5,0.0,30,16,3
+Mesh Parameterization,HORMANN K.; GREINER G 1999,1999,5,0.0,30,16,1
+Mesh Parameterization,SHEFFER A.; DE STURLER E. 2000,2000,5,0.0,30,16,2
+Mesh Parameterization,SHEFFER A.; L√âVY B.; MOGILNITSKY M.; BOGOMYAKOV A. 2005,2005,5,0.0,30,16,4
+Mesh Parameterization,ZAYER R.; L√âVY B.; SEIDEL H.-P. 2007,2007,3,0.0,30,16,3
+Mesh Parameterization,SANDER P. V.; SNYDER J.; GORTER S. J.; HOPPE 2001,2001,5,0.0,30,16,4
+Mesh Parameterization,ZAYER R.; ROESSL C.; SEIDEL H.-P 2005,2005,4,0.0,30,16,4
+Mesh Parameterization,YOSHIZAWA S.; BELYAEV A. G.; SEIDEL H.-P 2004,2004,5,0.0,30,16,3
+Mesh Parameterization,CHEN Z. G.; LIU L. G.; ZHANG Z. Y.; WANG G. J. 2007,2007,5,0.0,30,16,4
+Mesh Parameterization,SPRINGBORN B.; SCHROEDER P.; PINKALL U. 2008,2008,4.01,0.0,30,16,3
+Maximum Likelihood Methods in Unknown Latent Variables,Expectation-Maximization (EM) algorithm,1977,6,19184.103092783505,46,12,3
+Maximum Likelihood Methods in Unknown Latent Variables,EM with Quasi-Newton Methods (Jamshidian; Mortaza; Jennrich; Robert I.),1997,5.03,19184.103092783505,46,12,2
+Maximum Likelihood Methods in Unknown Latent Variables,Parameter-expanded expectation maximization (PX-EM),1998,6,0.0,46,12,3
+Maximum Likelihood Methods in Unknown Latent Variables,Expectation conditional maximization (ECM),1993,6,19184.103092783505,46,12,2
+Maximum Likelihood Methods in Unknown Latent Variables,Expectation conditional maximization either (ECME) (Liu; Chuanhai; Rubin; Donald B),1994,6,19184.103092783505,46,12,2
+Maximum Likelihood Methods in Unknown Latent Variables,Œ±-EM Algorithm,2003,6,0.0,46,12,1
+Maximum Likelihood Methods in Unknown Latent Variables,"alpha-HMM (Matsuyama, Yasuo)",2011,5.02,19184.103092783505,46,12,1
+Filtering Problem (Stochastic Processes),Kushner non-linear filter,1967,6,1267.6701030927834,64,25,1
+Filtering Problem (Stochastic Processes),Zakai,1969,6,0.0,64,25,1
+Filtering Problem (Stochastic Processes),Damiano Brigo; Bernard Hanzon and Fran√ßois LeGland,1998,5.46,1267.6701030927834,64,25,3
+Filtering Problem (Stochastic Processes),Del Moral; Pierre,1998,5,65893.26804123711,64,25,1
+Filtering Problem (Stochastic Processes),Ocone,1999,5,8201.525773195875,64,25,1
+Optimal Policies for MDPs,Bellman Value Iteration (VI),1957,8,0.0,66,63,1
+Optimal Policies for MDPs,Howard Policy Iteration (PI),1960,6,0.0,66,63,1
+The Set-Covering Problem,Integer linear program Vazirani,2001,5,38723.13402061856,51,17,1
+The Set-Covering Problem,Greedy Algorithm,1996,6.01,6902.350515463918,51,17,1
+The Set-Covering Problem,Lund & Yannakakis,1994,8,6902.350515463918,51,17,2
+The Set-Covering Problem,Feige,1998,8,6902.350515463918,51,17,1
+The Set-Covering Problem,Raz & Safra,1997,6.03,6902.350515463918,51,17,2
+The Set-Covering Problem,Dinur & Steurer,2013,5.01,6902.350515463918,51,17,2
+The Set-Covering Problem,Cardoso; Nuno; Abreu; Rui,2014,5,6902.350515463918,51,17,2
+Motif Search,Helden Oligo-Analysis,1998,3,0.0,35,20,3
+Motif Search,van Helden J; Rios AF; Collado-Vides J,2000,3,0.0,35,20,1
+Motif Search,Sinha S; Tompa M YMF (Yeast Motif Finder),2000,2.83,86.84536082474227,35,20,2
+Motif Search,Bailey TL; Elkan C MEME,1995,5,5773.092783505154,35,20,2
+Motif Search,Sagot M,1988,4.225,86.84536082474227,35,20,1
+Motif Search,Liang Cwinnower,2003,2.75,0.0,35,20,3
+Motif Search,Kingsford,2006,3,0.0,35,20,3
+Link Analysis,The INDEGREE Algorithm,1997,6,0.0,26,25,1
+Link Analysis,The (Hyperlink-Induced Topic Search) HITS Algorithm,1998,5,2577.2061855670104,26,25,1
+Link Analysis,Kleinberg,1998,7,2577.2061855670104,26,25,1
+Link Analysis,The (Stochastic Approach for Link Structure Analysis) SALSA Algorithm,2000,7,133.2164948453608,26,25,2
+Link Analysis,Randomized HITS,2001,6.01,0.0,26,25,3
+Link Analysis,PHITS Coheng Chan,2000,6,0.0,26,25,2
+Link Analysis,Haveliwala,2002,6,188.28865979381445,26,25,1
+Link Analysis,Jeh and Widom,2003,6,623.3711340206186,26,25,2
+Link Analysis,Richardson and Domingos,2002,6,43668.49484536082,26,25,2
+Link Analysis,Tomlin,2003,6,0.0,26,25,1
+Link Analysis,Achlioptas,2001,6,0.0,26,25,4
+Distributed Locking Algorithms,Chubby (Mike Burrows),2006,3,7079.381443298969,34,34,1
+Distributed Locking Algorithms,Tushar Deepak Chandra and Sam Toueg,1996,3,225.22680412371133,34,34,2
+Point-in-Polygon,Ray casting algorithm Shimrat; M,1962,3,7036.5360824742265,61,61,1
+Point-in-Polygon,Nordbeck and Rystedt (Grid Method),1967,3,0.0,61,61,2
+Point-in-Polygon,Salomon (Swath Method),1978,4,0.0,61,61,1
+Point-in-Polygon,Nordbeck and Rystedt (Sum of area),1967,3,0.0,61,61,2
+Point-in-Polygon,Preparata and Shamos (Wedge),1985,3,1053.701030927835,61,61,2
+Point-in-Polygon,Saalfeld (Sign of offset),1987,3,0.0,61,61,1
+Point-in-Polygon,Preparata and Shamos (Intersection sum of angle),1985,3,1053.701030927835,61,61,2
+Point-in-Polygon,Nordbeck and Rystedt (Orientation),1967,3,0.0,61,61,2
+Clock Synchronization in Distributed Systems,ASP,2005,3,0.0,19,19,3
+Clock Synchronization in Distributed Systems,Clock-sampling mutual network synchronization,2007,3,4673.061855670103,19,19,2
+Clock Synchronization in Distributed Systems,MATSF,2004,3,0.0,19,19,2
+Maximum Cut,Motwani & Raghavan,1995,3,12000.721649484536,48,28,2
+Maximum Cut,Mitzenmacher & Upfal,2005,6,21829.9793814433,48,28,2
+Maximum Cut,"Khuller; Raghavachari & Young, ""Greedy Methods""",2007,5,2607.443298969072,48,28,1
+Maximum Cut,Ausiello et al.,2003,6.01,1250.40206185567,48,28,6
+Maximum Cut,Dunning; Gupta & Silberholz,2018,6,2607.443298969072,48,28,3
+Wiener Index,Ruchansky,2015,5.01,71.84536082474227,8,8,5
+Determinant of Matrices with Integer Entries,Bareiss algorithm,1968,5.52,593.2886597938144,55,55,1
+Integer Relation,Ferguson‚ÄìForcade algorithm,1979,6,488.4845360824742,44,44,2
+Integer Relation,LLL algorithm,1982,7,3465.0,44,44,3
+Integer Relation,PSOS algorithm,1988,6,488.4845360824742,44,44,2
+Integer Relation,PSLQ algorithm,1992,6,488.4845360824742,44,44,3
+Sequence-to-Graph Alignment,Amir et al.,1997,6,0.0,26,23,3
+Sequence-to-Graph Alignment,Navarro,2000,5,0.0,26,23,1
+Sequence-to-Graph Alignment,HybridSpades,2015,7,0.0,26,23,4
+Sequence-to-Graph Alignment,V-ALIGN,2018,6,0.0,26,23,4
+Sequence-to-Graph Alignment,Rautiainen and Marschall,2017,5,0.0,26,23,2
+Sequence-to-Graph Alignment,"Jain, Chang",2019,5,0.0,26,23,4
+Sequence-to-Graph Alignment,"Rautiainen, Marschall",2019,5,0.0,26,23,3
+Logarithm Calculations,Baby-step Giant-step,1971,8,1787.721649484536,101,101,1
+Logarithm Calculations,Function Field Sieve (FFS),1999,8,469.50515463917526,101,101,2
+Logarithm Calculations,Number Field Sieve (NFS),1990,8,809.3917525773196,101,101,1
+Logarithm Calculations,Pohlig-Hellman,1978,8,1265.721649484536,101,101,2
+Logarithm Calculations,Pollard's rho algorithm,1978,8,3129.8453608247423,101,101,1
+Logarithm Calculations,Pollard's kangaroo algorithm,1978,8,691.1134020618557,101,101,1
+Self-Balancing Trees Creation,"Guibas, Sedgewick Red-Black Tree",1972,4,24400.80412371134,61,61,2
+Self-Balancing Trees Insertion,"Guibas, Sedgewick Red-Black Tree",1972,2,24400.80412371134,53,53,2
+Self-Balancing Trees Deletion,"Guibas, Sedgewick Red-Black Tree",1972,2,24400.80412371134,53,53,2
+Self-Balancing Trees Search,"Guibas, Sedgewick Red-Black Tree",1972,2,24400.80412371134,53,53,2
+Transitive Reduction Problem,"Aho, Garey & Ullman",1972,5.3728596,1244.4845360824745,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1972,5.807,1244.4845360824745,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1978,5.8,0.0,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1979,5.78,0.0,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1980,5.52,0.0,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1980,5.518,0.0,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1981,5.495,1244.4845360824745,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1986,5.48,0.0,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",1990,5.372,0.0,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",2014,5.373,0.0,51,9,3
+Transitive Reduction Problem,"Aho, Garey & Ullman",2014,5.371,0.0,51,9,3
+Transitive Reduction Problem,"Gries, Martin",1989,6,0.0,51,9,4
+n-Queens Problem,Dijkstra,1972,8,0.0,175,5,3
+n-Queens Problem,"Rivin, Zabih",1992,8,0.0,175,5,2
+Tower of Hanoi,Hanoi graph,2008,8,30621.20618556701,140,140,3
+Block Ciphers,RC5,1994,3,2064.546391752577,47,47,1
+Block Ciphers,Rijndael / AES,2001,3,10258.061855670105,47,47,2
+Block Ciphers,Blowfish,1993,3,10870.443298969072,47,47,1
+Polynomial Interpolation,Bjorck,1970,5,0.0,53,53,2
+Polynomial Interpolation,Higham,1988,5,0.0,53,53,1
+Polynomial Interpolation,"Calvetti, Reichel",1993,5,1938.59793814433,53,53,2
+Greatest Common Divisor,Binary GCD algorithm,1967,5,2202.4123711340208,83,17,1
+Greatest Common Divisor,"Sthele, Zimmermann",2006,4.011,2202.4123711340208,83,17,2
+Deadlock avoidance,Banker's Algorithm,1966,5,6123.79381443299,57,57,1
+Page Replacements,Longest distance first (LDF) page replacement algorithm,2017,3,10101.577319587628,83,83,2
+Recovery,ARIES,1992,3,1404.0721649484535,31,31,5
